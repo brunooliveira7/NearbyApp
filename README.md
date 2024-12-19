@@ -1,7 +1,7 @@
 <h1 align="center"> NearbyApp </h1>
 
 <p align="center">
-Permite aos usuários controle de reembolso com funções de adicionar e listar despesas, exibindo cada item com detalhes de descrição e valor. Ele calcula automaticamente o total das despesas, mostrando o valor acumulado em tempo real. Site disponível em: https://brunooliveira7.github.io/Refund
+O Nearby é um aplicativo desenvolvido em Kotlin que conecta você às melhores lojas e serviços credenciados ao seu redor. Com integração ao Google Maps e leitor de QRcode, o Nearby oferece uma experiência prática e personalizada para localizar estabelecimentos, explorar promoções exclusivas e economizar com cupons de desconto.
 </p>
 
 <p align="center">
