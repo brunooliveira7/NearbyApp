@@ -27,7 +27,11 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O usuário pode remover dinamicamente itens da lista, com o total atualizado após cada exclusão.
+Principais Funcionalidades:
+- Localização Inteligente: Descubra lojas, restaurantes e serviços próximos a você com base na sua localização atual. Use o Google Maps integrado para traçar rotas e chegar rapidamente ao local desejado.
+- Cupons de Desconto: Economize em suas compras com ofertas exclusivas disponíveis diretamente no aplicativo. Resgate e utilize cupons em segundos.
+- Leitor de QR Code: Facilite suas compras e resgates com um leitor de QR Code integrado. Escaneie cupons ou ofertas diretamente nas lojas credenciadas.
+- Catálogo Personalizado: Explore produtos e serviços com base em suas preferências e descubra promoções personalizadas.
 
 ## 🔖 Layout
 
