@@ -20,8 +20,7 @@ O Nearby é um aplicativo desenvolvido em Kotlin que conecta você às melhores 
 
 Projeto desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
+- Kotlin
 - Git e Github
 - Figma
 
