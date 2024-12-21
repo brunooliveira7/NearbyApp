@@ -34,7 +34,7 @@ Principais Funcionalidades:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/DVVxctUNAl4gkfhwLtYxGb/Sistema-de-reembolso-(Community)?node-id=0-1&node-type=canvas&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/d5QOarVznZosJMbXcXdDe7/NLW-Pocket-Mobile-%E2%80%A2-Nearby-(Community)?node-id=0-1&p=f&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 ## :memo: Licença
