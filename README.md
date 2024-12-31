@@ -1,7 +1,7 @@
 <h1 align="center"> NearbyApp </h1>
 
 <p align="center">
-O Nearby é um aplicativo desenvolvido em Kotlin que conecta você às melhores lojas e serviços credenciados ao seu redor. Com integração ao Google Maps e leitor de QRcode, o Nearby oferece uma experiência prática e personalizada para localizar estabelecimentos, explorar promoções exclusivas e economizar com cupons de desconto.
+O Nearby é um aplicativo desenvolvido em Kotlin que conecta você as melhores lojas e serviços credenciados ao seu redor. Com integração ao Google Maps e leitor de QRcode, o Nearby oferece uma experiência prática e personalizada para localizar estabelecimentos, explorar promoções exclusivas e economizar com cupons de desconto.
 </p>
 
 <p align="center">
