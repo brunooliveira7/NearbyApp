@@ -15,7 +15,7 @@ O Nearby é um aplicativo desenvolvido em Kotlin que conecta você às melhores 
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/NearbyApp/blob/main/app/src/main/res/drawable/Layout-Nearby2.png">
 </p>
 
 <br>
